@@ -16,3 +16,4 @@ pub mod unwrap;
 pub mod util;
 pub mod vector;
 pub mod generic_type;
+pub mod methods;
