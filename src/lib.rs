@@ -20,3 +20,4 @@ pub mod methods;
 pub mod trait_basic;
 pub mod generic_trait;
 pub mod trait_bound;
+pub mod iter_adaptors;
