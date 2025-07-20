@@ -18,3 +18,4 @@ pub mod vector;
 pub mod generic_type;
 pub mod methods;
 pub mod trait_basic;
+pub mod generic_trait;
